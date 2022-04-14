@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nashwa
+- 👋 Hi, I’m @nashwar
 - 👀 I’m interested in web development and learning anything possible regarding coding. 
 - 🌱 I’m currently learning python and sql. 
 - 💞️ I’m looking to collaborate on any beginner level projects that can teach me valuable skills for future projects.
